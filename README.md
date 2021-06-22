@@ -1,3 +1,3 @@
 # Principal Component Anaylsis
 Principal Component Analysis (PCA) is an unsupervised dimensionality reduction and visualisation technique. It is often referred to as a linear technique because the mapping of new features is given by the multiplication of feature by the matrix of PCA eigenvectors. It works by simply identifying the hyperplane that lies close to the data and then projects the data onto it in order to maximize the variance. Due to the simplistic approach PCA follows, it is widely used in data mining, bioinformatics, psychology, etc. Most of us are unaware of the fact that there are various versions of this algorithm out there which are better than the conventional approach. Let’s look at them one by one.
-![image](https://user-images.githubusercontent.com/78586456/122952139-74543780-d39b-11eb-94ca-45731f1d2f08.png)
+![image](https://user-images.githubusercontent.com/78586456/122952596-bbdac380-d39b-11eb-8189-c2bfd298ca3c.png)
